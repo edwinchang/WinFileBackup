@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\*\shell\++备份当前文件++]
+@="++备份当前文件++"
+[HKEY_CLASSES_ROOT\*\shell\++备份当前文件++\command]
+@="\"D:\\备份文件命令.bat\" \"%1\""
